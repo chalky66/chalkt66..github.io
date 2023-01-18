@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "FarmShop.dll": "sha256-H6avtkqgrR+Sez5rbFA9nkNvEWTGZU3yIR9FMMnfEh0=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-RYoYO4JrVHr3K7LkZPwPdGvuZ\/cWiD4ylxpt1CPgidk=",
+      "FarmShop.dll": "sha256-zX1uEQabTI4KVAEMd\/TLH66FvFomkZ23GOmR8Q4L4ng=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-3Hg7\/hrC93p+NWLpEj3LLN+zHcBdU3+t\/lllOimTcCA=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-AQ3I77Gi\/oQfJ8gdiMLY621qx1HPHzieIA1vnvq3Knk=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-FCxpZaZD50R4SmVoz9Ee2g3D5tEbXcRSXRe3XVk0UuE=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jj0gEWGz0IP5DtImmDS2JCnL7nDJvw39GXaOgt9q2BU=",
@@ -41,7 +41,7 @@
       "System.ObjectModel.dll": "sha256-PlxSddMRuOSnxMrSStrpAb2RZLkKqjZMJ6aZcL+6lzo=",
       "System.Private.CoreLib.dll": "sha256-5kEFNRQ6RuPiXNj29fCOgYkaboeGxNYLJ45yj7cc3iU=",
       "System.Private.Uri.dll": "sha256-NIX4YP1XkHO5RlyVdmz9xFTS2OVij2Mlv2SaLy4J6Sw=",
-      "System.Runtime.dll": "sha256-TXcEQ1ATa39emsxZk0hZ3r\/yPx1fNORXNaVpsvUDvOA=",
+      "System.Runtime.dll": "sha256-TerUzT0k5LLnvbr6u8R8AqmDHxQQHjDWKfx2d\/mKJ0g=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-BPqE6NqU82guV5Qguh5jIghbFK\/CaIYUARPOd6Bsz5M=",
       "System.Text.Encodings.Web.dll": "sha256-HJTrpZzZwWWrhb9fBDZ8PoVDylCQLkc+zVtMtihZO8M=",
       "System.Text.Json.dll": "sha256-lKAVOPlfLEHPcbRfOYBWQekzlpXPiKJ2iKBBOz+W5rQ="
