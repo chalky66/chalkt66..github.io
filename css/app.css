@@ -99,3 +99,21 @@ a, .btn-link {
     .loading-progress-text:after {
         content: var(--blazor-load-percentage-text, "Loading");
     }
+
+#bg-image {
+    background-image: url('https://i.pinimg.com/564x/02/16/41/0216411e94ebd6744e4b0279cc06b824.jpg'); /* change the path to the image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#background-1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: var(--background-image-1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    z-index: var(--background-z-1);
+}
