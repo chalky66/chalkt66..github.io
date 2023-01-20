@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "FarmShop.dll": "sha256-Vovc0C2VkrG8XURLf9O2bAXthrHo3D39H4E6tLgcyPU=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-s\/a4+irbKgwD6mi2NAYbv5jCou3Ok347zrMKoQp7n9Y=",
+      "FarmShop.dll": "sha256-oFx4IBXSw\/sumW4o7w4z\/DvLg2xzo3WQxC3098botIo=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-mDy\/JIdOEFWUtlWYg+DgAhspaHS35m3rb\/DC5zOxr0I=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-TDz01VbB+WVPqu7aEKzdIQXB7Ohznz\/YhX9Jnu5Yjco=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-nAUJGl2WCghUNJvvkXY1L8aDYiRFsd9aKEKF6t09GSY=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-2Jg3mQhCSyqkofbgXHMRw0whL7fAl07+VKYd0lApk7I=",
