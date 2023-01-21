@@ -73,7 +73,6 @@ a, .btn-link {
     width: 8rem;
     height: 8rem;
     margin: 20vh auto 1rem auto;
-    color: white;
 }
 
     .loading-progress circle {
@@ -82,14 +81,12 @@ a, .btn-link {
         stroke-width: 0.6rem;
         transform-origin: 50% 50%;
         transform: rotate(-90deg);
-        color: white;
     }
 
         .loading-progress circle:last-child {
             stroke: #1b6ec2;
             stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
             transition: stroke-dasharray 0.05s ease-in-out;
-            color: white;
         }
 
 .loading-progress-text {
@@ -97,10 +94,8 @@ a, .btn-link {
     text-align: center;
     font-weight: bold;
     inset: calc(20vh + 3.25rem) 0 auto 0.2rem;
-    color: white;
 }
 
     .loading-progress-text:after {
         content: var(--blazor-load-percentage-text, "Loading");
-        color: white;
     }
