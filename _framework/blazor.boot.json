@@ -12,8 +12,8 @@
     "assembly": {
       "BouncyCastle.Crypto.dll": "sha256-9CuGCYVNgNf4HydjQFBKpegrvk1z0FCA\/vH8yiREtNU=",
       "comerr64.dll": "sha256-zFdsX2TJjHV0U7JLwbvNJ1x0XdhGIIXSD53vUTvCyYM=",
-      "FarmShopSecure.dll": "sha256-BImWyjTgpDEA2m+DZmkN95ibbiQm5oN+B1A9Sy62nZQ=",
-      "Google.Protobuf.dll": "sha256-+J2nHCcCojWda1nb\/lJ7h5NcPwceOgJd2uZW6D1Cvkw=",
+      "FarmShopSecure.dll": "sha256-Ghz7E9kAIODbZGijeMmyBuQaRP91D5eoMuu6P7JevAQ=",
+      "Google.Protobuf.dll": "sha256-7bXkZdzlZHEFJh7InaOGimnZdRgZ\/TA67RuCnYd3XA4=",
       "gssapi64.dll": "sha256-6AzvzZNX6vT8Ce5VbxBEk3yjETrA0xFk1xr2ao9S7w8=",
       "K4os.Compression.LZ4.dll": "sha256-\/x7TAakpIVJ2TF5P1Wu+XGWD19Wf58DZ+RfaGQdLcBw=",
       "K4os.Compression.LZ4.Streams.dll": "sha256-pOP\/VrKinpM8\/PrX+fKBgXzdxptxgyqIpn8ebfiTJaE=",
@@ -119,7 +119,7 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.7.0.2.9x0lstncza.js": "sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA=",
+      "dotnet.7.0.2.ek81mpq7te.js": "sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA=",
       "dotnet.timezones.blat": "sha256-ics+RIevvtH3z9plMxv4\/GSMK9+LKYd9sy3FRRI5qTI=",
       "dotnet.wasm": "sha256-U4Yv0mEAN9gesUDNM9s6uB3RdekdPqtggt1OsytNIQM=",
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",

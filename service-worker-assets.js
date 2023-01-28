@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
+      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "hash": "sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA=",
-      "url": "_framework\/dotnet.7.0.2.9x0lstncza.js"
+      "url": "_framework\/dotnet.7.0.2.ek81mpq7te.js"
     },
     {
       "hash": "sha256-ics+RIevvtH3z9plMxv4\/GSMK9+LKYd9sy3FRRI5qTI=",
@@ -133,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-GQCtpfAwCcCMvGOgtCnsG2IT\/OHJfzApBprVYjeKdwg=",
+      "hash": "sha256-uwxMZFGDc7\/r46fRbAkMpJUG\/Waaboprh4UE5aW5U40=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -141,11 +141,11 @@
       "url": "_framework\/BouncyCastle.Crypto.dll"
     },
     {
-      "hash": "sha256-BImWyjTgpDEA2m+DZmkN95ibbiQm5oN+B1A9Sy62nZQ=",
+      "hash": "sha256-Ghz7E9kAIODbZGijeMmyBuQaRP91D5eoMuu6P7JevAQ=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
-      "hash": "sha256-+J2nHCcCojWda1nb\/lJ7h5NcPwceOgJd2uZW6D1Cvkw=",
+      "hash": "sha256-7bXkZdzlZHEFJh7InaOGimnZdRgZ\/TA67RuCnYd3XA4=",
       "url": "_framework\/Google.Protobuf.dll"
     },
     {
@@ -545,5 +545,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "+0kMf66Z"
+  "version": "t5xEwDbn"
 };
