@@ -77,14 +77,6 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-dxUXHxdZQn5\/kwpkERWUTfmOe9ar5ur25\/DfJlX5o6o=",
-      "url": "sample-data\/countries.json"
-    },
-    {
-      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ\/A6aYYSQjZfVn2cU=",
-      "url": "sample-data\/weather.json"
-    },
-    {
       "hash": "sha256-HRNaHHsA8OlXlfN4+EIRJH3Eelhrk8pTXP2c7560s2I=",
       "url": "_framework\/testhost.dll"
     },
@@ -141,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-5HCxDHtxcWdUmsXmlkpvgdLq+SmFinfUkYzRIAU9dl0=",
+      "hash": "sha256-VD8A1y\/S\/Nl6g0y9wSDUtRqYjTXPd2aGDA79OxkJKWw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -149,7 +141,7 @@
       "url": "_framework\/BouncyCastle.Crypto.dll"
     },
     {
-      "hash": "sha256-53l5RgW2gZUvy0wJrAk6Z8gfThd1MGkdYVGXEPyOqvo=",
+      "hash": "sha256-K2ZytF\/XUnEtGIAAFbc0yb20niAjdYmYtNuucPNy16M=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
@@ -181,7 +173,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
-      "hash": "sha256-JQTluOuTv0Ns5zQJ\/L5Js2VTUfbdVjPaUnrP9HmxfoE=",
+      "hash": "sha256-fPymG4Rp7vATI24Uw3on6XCXVoseW+uG6nYb\/ngqXd4=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -945,5 +937,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "l+oBUnyi"
+  "version": "ED\/znvS7"
 };
