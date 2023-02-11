@@ -133,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-P\/pTDAyqh8IrpSovNlK2hNtKB5SoeXxZvJhZsMCM80E=",
+      "hash": "sha256-+Q\/LjZRQtOZBQBZ5Pxo2RJDKRgsEcebNC\/dbCyx7lqY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/BouncyCastle.Crypto.dll"
     },
     {
-      "hash": "sha256-wE3DSMkMHk3D\/dwDsLovYizNvYfkInWAp4Xx2TiTuf0=",
+      "hash": "sha256-z4L6VyQX21MxZdt9yvjDiLTdo2xROJfiqrLlHBhd4fg=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
-      "hash": "sha256-fPymG4Rp7vATI24Uw3on6XCXVoseW+uG6nYb\/ngqXd4=",
+      "hash": "sha256-+JRxs3Jm04U197JoAWy6xr1TkkEmYiP5LlNkq2gAKi4=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -937,5 +937,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "2h6pP+cd"
+  "version": "onsgx\/Yz"
 };
