@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "hash": "sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA=",
-      "url": "_framework\/dotnet.7.0.2.ek81mpq7te.js"
+      "url": "_framework\/dotnet.7.0.2.9x0lstncza.js"
     },
     {
       "hash": "sha256-ics+RIevvtH3z9plMxv4\/GSMK9+LKYd9sy3FRRI5qTI=",
@@ -133,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-15QmI63gutkML1U6wKnOtijtq2eLyyG694D9dltqXeM=",
+      "hash": "sha256-7jpkUXfMBVGYW+ryQWI30umW4jQz\/YiEInV5DCQdKgE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -141,15 +141,15 @@
       "url": "_framework\/BouncyCastle.Crypto.dll"
     },
     {
-      "hash": "sha256-WKyUMsI90J89K0vwiErAm48BGoVu4AeB\/hmuVw1mjKo=",
+      "hash": "sha256-RBFV3w4VccAUTglmE3XfOhxEbv9hDr9BmjDsEtPVIng=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
-      "hash": "sha256-mRl7VsF2fsyIJseh5E41u7Ug1ccbLUdhI+cmuPsKdro=",
+      "hash": "sha256-LGx7FzouYw34lV+UrbmANLoDGAyaI7N10SnmqM\/WwNc=",
       "url": "_framework\/FarmShopSecureSearchLogic.dll"
     },
     {
-      "hash": "sha256-7bXkZdzlZHEFJh7InaOGimnZdRgZ\/TA67RuCnYd3XA4=",
+      "hash": "sha256-+J2nHCcCojWda1nb\/lJ7h5NcPwceOgJd2uZW6D1Cvkw=",
       "url": "_framework\/Google.Protobuf.dll"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
-      "hash": "sha256-+JRxs3Jm04U197JoAWy6xr1TkkEmYiP5LlNkq2gAKi4=",
+      "hash": "sha256-ej1wqJfojr3Xa9pynkAyVGHJThdAjV59JRFvxMeyJYs=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -937,5 +937,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "YGyiKKR\/"
+  "version": "uWwcWfCe"
 };
