@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
+      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "hash": "sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA=",
-      "url": "_framework\/dotnet.7.0.2.9x0lstncza.js"
+      "url": "_framework\/dotnet.7.0.2.ek81mpq7te.js"
     },
     {
       "hash": "sha256-ics+RIevvtH3z9plMxv4\/GSMK9+LKYd9sy3FRRI5qTI=",
@@ -133,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-XZEMw+FZCo8TsnO+dNR9Xsjh2m4esXAXnOZ2vDogL8Y=",
+      "hash": "sha256-MV69hPlGM51+G3+MBWWQNZHVVIay03uOrw\/XGhhJmbE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -141,15 +141,15 @@
       "url": "_framework\/BouncyCastle.Crypto.dll"
     },
     {
-      "hash": "sha256-aQztHXYqiiTOJcodkjv91xF1GOLGzMDpueBPMJsrMEg=",
+      "hash": "sha256-cM1wnvOUdXa\/UJpRjZZC06uSkczRlMtMwlKNPwLG984=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
-      "hash": "sha256-LGx7FzouYw34lV+UrbmANLoDGAyaI7N10SnmqM\/WwNc=",
+      "hash": "sha256-v0D2Wv6TRtN0GdtW5N9YXPPTFFllhGBx08zDxpAbcSY=",
       "url": "_framework\/FarmShopSecureSearchLogic.dll"
     },
     {
-      "hash": "sha256-+J2nHCcCojWda1nb\/lJ7h5NcPwceOgJd2uZW6D1Cvkw=",
+      "hash": "sha256-7bXkZdzlZHEFJh7InaOGimnZdRgZ\/TA67RuCnYd3XA4=",
       "url": "_framework\/Google.Protobuf.dll"
     },
     {
@@ -469,7 +469,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-WCH5TZ6pyW5IyM\/mD1MA23iWYIxZP3IZKb+4dw137I4=",
+      "hash": "sha256-nXeJYX4xxTAtX\/PxHClRXVYWHizrfLFDf2EyJFASA8U=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -513,7 +513,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-mF78DzcMdRCpwpVo2t5iJPLx272IIK03Ct9Pom83MwA=",
+      "hash": "sha256-bmQLz8EOmONGWmcr7zU37BFrqloWK3GXDJsF+jhGbQg=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -937,5 +937,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "PH7a8MFK"
+  "version": "MRuMmGig"
 };
