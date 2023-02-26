@@ -133,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-rTBZ7ZmXXBP\/CvnpTgjvDx5eS0xHvwgWcnlGx\/NrH1E=",
+      "hash": "sha256-pDNrkLeDVTlPBlhAZJXL7G05jBlLQFc+cYyNZgfJQYk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -141,11 +141,11 @@
       "url": "_framework\/BouncyCastle.Crypto.dll"
     },
     {
-      "hash": "sha256-o44CyTRytzVBkmjXXEmoIS\/XJg1gjIHJiOXQ4Gef444=",
+      "hash": "sha256-bXF1UVoJtg7lTsFV05Nk6HCf7TcyY9cDm25uMAVrqCo=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
-      "hash": "sha256-KHXZNkWaej2ccAM37bSaqcCTJaInzxjv\/X4R5utZx74=",
+      "hash": "sha256-Cf4KMy7A7VgMHd8kwFMalNL1LIsEnKjGt3GwIhf5l\/Y=",
       "url": "_framework\/FarmShopSecureSearchLogic.dll"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
-      "hash": "sha256-ej1wqJfojr3Xa9pynkAyVGHJThdAjV59JRFvxMeyJYs=",
+      "hash": "sha256-6CVsr9eYHa0O3GuXioNMeAtoyXEqCbTrEn1\/szn3Vw0=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-nAUJGl2WCghUNJvvkXY1L8aDYiRFsd9aKEKF6t09GSY=",
+      "hash": "sha256-8AyM+pL7TeW+DKwKSlMLGtxoF+t2ArPbKbxY9koLHgo=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -937,5 +937,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "WRvWloZ9"
+  "version": "XzRj3tg+"
 };
