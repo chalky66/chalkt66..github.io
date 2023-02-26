@@ -133,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-eh9lrvmdJm1ZZTWQ9bD\/D17RRNfbsvF\/IECbJIG1qkY=",
+      "hash": "sha256-rTBZ7ZmXXBP\/CvnpTgjvDx5eS0xHvwgWcnlGx\/NrH1E=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -141,11 +141,11 @@
       "url": "_framework\/BouncyCastle.Crypto.dll"
     },
     {
-      "hash": "sha256-ib\/MB9qHU8ff5fi3\/\/mwnPOUZDxtFZVBMo\/hjog4FN8=",
+      "hash": "sha256-o44CyTRytzVBkmjXXEmoIS\/XJg1gjIHJiOXQ4Gef444=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
-      "hash": "sha256-oQvbf7mSvCREY3KgG9HafrUC+9WiSa0j9foz0m\/sVcg=",
+      "hash": "sha256-KHXZNkWaej2ccAM37bSaqcCTJaInzxjv\/X4R5utZx74=",
       "url": "_framework\/FarmShopSecureSearchLogic.dll"
     },
     {
@@ -937,5 +937,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "Wes\/v8Aw"
+  "version": "WRvWloZ9"
 };
