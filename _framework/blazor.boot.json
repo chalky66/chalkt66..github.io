@@ -12,7 +12,7 @@
     "assembly": {
       "BouncyCastle.Crypto.dll": "sha256-9CuGCYVNgNf4HydjQFBKpegrvk1z0FCA\/vH8yiREtNU=",
       "comerr64.dll": "sha256-zFdsX2TJjHV0U7JLwbvNJ1x0XdhGIIXSD53vUTvCyYM=",
-      "FarmShopSecure.dll": "sha256-q+k1M6VKBbLSTvMaHHjrBVECyN9E82XpONmTqNrP+7s=",
+      "FarmShopSecure.dll": "sha256-u6S4MprI9YS+T49e1pRENLF5YQUPi1qiuGGalDXBbIg=",
       "FarmShopSecureSearchLogic.dll": "sha256-v\/E6L1c7UhdlbY8aPfNFc0n1FOUt+rcPyvkgOa9+i\/Y=",
       "Google.Protobuf.dll": "sha256-7bXkZdzlZHEFJh7InaOGimnZdRgZ\/TA67RuCnYd3XA4=",
       "gssapi64.dll": "sha256-6AzvzZNX6vT8Ce5VbxBEk3yjETrA0xFk1xr2ao9S7w8=",
@@ -24,7 +24,7 @@
       "krbcc64.dll": "sha256-GQ8LoCt1Uo+DqcL6ePhz4NBaaImwbjEsdAm4hKQV5bo=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-9CfppqdvYw74Hh1MYFsACtinPt2rdubA1UcyR2phToc=",
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-IW4z8qqthT+FzqoY60QSCpHNYnCBe4InWuo1+HwaQRc=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-6CVsr9eYHa0O3GuXioNMeAtoyXEqCbTrEn1\/szn3Vw0=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-58rA16Im3o01lxmVHHiSw3UwOLi+8pOLArMM02DvNX0=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-fsqehJ69eVw+ip0woex4k+SPtDTCkZjLArLEpbkGHD4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-8AyM+pL7TeW+DKwKSlMLGtxoF+t2ArPbKbxY9koLHgo=",
       "Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll": "sha256-P78n5UOgdTVGnvs9p29OGIBXiOtaFqt978t\/8KAOCg0=",
