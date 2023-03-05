@@ -133,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-NM1nE+xnw2HKn\/WY4mF4l6RLO1fr1u\/z8TvIE6tNv+4=",
+      "hash": "sha256-d7hapmeDXPxhSctToO22o9DjRHJrWac2M8bDghKh2gQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -141,7 +141,11 @@
       "url": "_framework\/BouncyCastle.Crypto.dll"
     },
     {
-      "hash": "sha256-u6S4MprI9YS+T49e1pRENLF5YQUPi1qiuGGalDXBbIg=",
+      "hash": "sha256-DZ\/jfCwm1TFrBcBrcJJkyABDTDVMz8ErYETwpSRSIas=",
+      "url": "_framework\/Darnton.Blazor.DeviceInterop.dll"
+    },
+    {
+      "hash": "sha256-iN\/\/8JDx0HGatQ3UEzsyL8iWb9FkIE4U2NigqAUJ2dM=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
@@ -173,7 +177,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
-      "hash": "sha256-58rA16Im3o01lxmVHHiSw3UwOLi+8pOLArMM02DvNX0=",
+      "hash": "sha256-jMUO1NDFzp49UZuqK9vf02OtTQHgu6xjaFyIZ5ZK+Ys=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -213,7 +217,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-SNz4NCr6cjUZH1xDpwHVRW5ZM+kzG1Fzd3dZiCLFzKs=",
+      "hash": "sha256-rARH+sRLCJWdc90V8H8fQaCwFqcsNd13YZ2HIlA7IOw=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
@@ -237,7 +241,7 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-o8AIKirvHrREeVXWDAon4ee2hZS61A5nLyLfZ355X24=",
+      "hash": "sha256-FHVidPFfbiQqg8CQy1wC1VlhGfnseomhsPUFDseFXM0=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
@@ -613,7 +617,7 @@
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-4zUAUv8CucLVWW+GfbemYMaZCWPxNUsyR8Op5N6ebFk=",
+      "hash": "sha256-H3pzNYnwCGIljgaT3WH\/1KuHHtuxuf+rPlqAPpBgcYU=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
@@ -655,6 +659,10 @@
     {
       "hash": "sha256-OXJzxGKdQfgfYzIvq61+CcG5DR\/4hWU5XlTSRRg59G0=",
       "url": "_framework\/System.Xml.XDocument.dll"
+    },
+    {
+      "hash": "sha256-lZBlkdG3twAkNSrZlgYv9rn05s0UkaOk5TNWzqP7zCA=",
+      "url": "_framework\/Units.dll"
     },
     {
       "hash": "sha256-qHQrOu1OEarYbGK1Rhqe\/j6PJ7QlUUGg6ArSxGwbXBk=",
@@ -933,9 +941,13 @@
       "url": "FarmShopSecure.styles.css"
     },
     {
+      "hash": "sha256-BOyiH18DbIIvbW\/0flv4Mg+Fs6bxdj5PvuVmNAZpcs8=",
+      "url": "_content\/Darnton.Blazor.DeviceInterop\/js\/Geolocation.js"
+    },
+    {
       "hash": "sha256-ufwN9wIcw3DmyXTJUOSibX\/BdZCBQRXyD5\/Ho\/+sh0E=",
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "N8ECiHN4"
+  "version": "t5TN9B1u"
 };
