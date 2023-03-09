@@ -57,6 +57,10 @@
       "url": "favicon.png"
     },
     {
+      "hash": "sha256-zkFWqE99Bo3WZY1Hgci+IOh5bGzcs+d8\/FLgFLkf2nU=",
+      "url": "geolocation.js"
+    },
+    {
       "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
       "url": "icon-192.png"
     },
@@ -65,7 +69,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-8cQHFuQe7DHom+lAbGJEvcf19vZSp9jlH\/lSSuyr9Dw=",
+      "hash": "sha256-H5RB1SoOuD9dtCg1uAHsH6yZNHrsqb\/CPF9zlwuqr\/c=",
       "url": "index.html"
     },
     {
@@ -133,7 +137,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-d7hapmeDXPxhSctToO22o9DjRHJrWac2M8bDghKh2gQ=",
+      "hash": "sha256-4Z9\/1jWpA2liwNisSQeqJRezLWAPH08t9Wu5U5cCM40=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -145,7 +149,7 @@
       "url": "_framework\/Darnton.Blazor.DeviceInterop.dll"
     },
     {
-      "hash": "sha256-iN\/\/8JDx0HGatQ3UEzsyL8iWb9FkIE4U2NigqAUJ2dM=",
+      "hash": "sha256-z4rG4LsR02l0XRG9sfdirJhnF6oOMdwOsQwS1sx1TpI=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
@@ -949,5 +953,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "t5TN9B1u"
+  "version": "+VoEHsNt"
 };
