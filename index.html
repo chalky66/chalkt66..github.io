@@ -22,18 +22,6 @@
             background-size: cover; /* Cover the entire page */
         }
     </style>
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            Blazor.start().then(function () {
-                // Call your async JS function here
-                JSRuntime.invokeAsync("testAsyncFunction").then(function (result) {
-                    console.log(result);
-                }).catch(function (error) {
-                    console.error(error);
-                });
-            });
-        });
-    </script>
 </head>
 
 <body>
@@ -52,39 +40,12 @@
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
     <script src="localStorageInterop.js"></script>
-
-    <script>
-        function clearBodyBackgroundImage() {
-            document.body.style.backgroundImage = "none";
-        }
-
-        function testGeoRequest() {
-            try {
-                navigator.permissions.query(Object.assign({ name: 'geolocation' }, null))
-                    .then(function (permission) {
-                        document.getElementById(permissionName + '-status').innerHTML = permission.state;
-                        permission.addEventListener('change', function (e) {
-                            document.getElementById(permissionName + '-status').innerHTML = permission.state;
-                            handleChange(permissionName, permission.state);
-                        });
-                    });
-            } catch (e) {
-            }
-        }
-        //    return new Promise((resolve, reject) => {
-        //        navigator.geolocation.getCurrentPosition(
-        //            (position) => {
-        //                // Geolocation was successful
-        //                resolve(position);
-        //            },
-        //            (error) => {
-        //                // Geolocation failed
-        //                reject(error);
-        //            }
-        //        );
-        //    });
-        }    </script>
-
 </body>
 
 </html>
+
+<script>
+    function clearBodyBackgroundImage() {
+        document.body.style.backgroundImage = "none";
+    }
+</script>
