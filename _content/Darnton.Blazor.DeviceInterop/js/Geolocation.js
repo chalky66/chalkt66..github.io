@@ -1,4 +1,4 @@
-export let Geolocation = {
+﻿export let Geolocation = {
 
     getCurrentPosition: async function (options) {
         var result = { position: null, error: null };
@@ -63,4 +63,3 @@ export let Geolocation = {
     }
 
 }
-
