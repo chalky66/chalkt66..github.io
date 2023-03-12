@@ -5,7 +5,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
+      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -65,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-49qf8wCTCMr1VRldtOB+2PktEHG+O1YL8eRO2kpS0ac=",
+      "hash": "sha256-8cQHFuQe7DHom+lAbGJEvcf19vZSp9jlH\/lSSuyr9Dw=",
       "url": "index.html"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "hash": "sha256-DxGvmbtUa6hGJpk3VyMEbkPZ653qWbQkh8X4ZVM9TWM=",
-      "url": "_framework\/dotnet.7.0.3.0b6jllh4rq.js"
+      "url": "_framework\/dotnet.7.0.3.ljmz2tvupg.js"
     },
     {
       "hash": "sha256-jgK4sHqNVMYvwtJ9cbh\/rz\/+ZekC9qEBgHdG\/NsjYhw=",
@@ -133,7 +133,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-T0oB0TSz9bkNSWfTivwcmuOVoSxLWZ4JYBIV1ziLDq4=",
+      "hash": "sha256-h0RtLuUVP4Tn1gm7YSIopQWr9cQNNWvcj8qkd2dV1vs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -145,15 +145,15 @@
       "url": "_framework\/Darnton.Blazor.DeviceInterop.dll"
     },
     {
-      "hash": "sha256-Nb+cJmMniQNudI2oVDD8sZCbOxXAfGlx+6X23kDy0cM=",
+      "hash": "sha256-8oQFt7qmsTdhZWOhAULnbYMUGUPtcSuIFA9MdeGnhIM=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
-      "hash": "sha256-YFzoMske88dsqdM\/PIQxnEYl9kU2lcaVFyxKI6T2Cdk=",
+      "hash": "sha256-v\/E6L1c7UhdlbY8aPfNFc0n1FOUt+rcPyvkgOa9+i\/Y=",
       "url": "_framework\/FarmShopSecureSearchLogic.dll"
     },
     {
-      "hash": "sha256-+J2nHCcCojWda1nb\/lJ7h5NcPwceOgJd2uZW6D1Cvkw=",
+      "hash": "sha256-7bXkZdzlZHEFJh7InaOGimnZdRgZ\/TA67RuCnYd3XA4=",
       "url": "_framework\/Google.Protobuf.dll"
     },
     {
@@ -441,7 +441,7 @@
       "url": "_framework\/System.Memory.dll"
     },
     {
-      "hash": "sha256-WIUmLD1awC\/+EKkMWvBHurso8CR9rzUoy7GU8E05dxc=",
+      "hash": "sha256-ir7FCTjJUx5sZS4z2DTlx91MYQoV+XpkkCp4ro6qKyE=",
       "url": "_framework\/System.Net.Http.dll"
     },
     {
@@ -617,7 +617,7 @@
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-H3pzNYnwCGIljgaT3WH\/1KuHHtuxuf+rPlqAPpBgcYU=",
+      "hash": "sha256-QnMKpyxjZQNi95UOB6KgmZ4L6cAWH0ixpyOC3PM5pyY=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
@@ -949,5 +949,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "4ZsCPJWs"
+  "version": "0yZhM7J8"
 };
