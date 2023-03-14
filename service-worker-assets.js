@@ -73,7 +73,7 @@
       "url": "leafletmap.js"
     },
     {
-      "hash": "sha256-8QG9HVaZzfmgE5HQkcTyoTavIUN+z+JcvuZZoJv+Kw8=",
+      "hash": "sha256-SR6FH25mltNMkh+eRZgOhNZCNaB6+\/3FlMVxX5KeJSY=",
       "url": "localStorageInterop.js"
     },
     {
@@ -1089,5 +1089,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "0n5zTLaK"
+  "version": "Qb4o36rH"
 };
