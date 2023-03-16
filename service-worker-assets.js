@@ -65,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-1f13eHqKqXioOIHMd3Q091zh0oEBOkVkq9MKgJoh0Gk=",
+      "hash": "sha256-WBuPochxQ3yYCyNVQVqz\/AyHxWNV8QXh3KHVC14HLgw=",
       "url": "index.html"
     },
     {
@@ -921,5 +921,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "WbCNYoCk"
+  "version": "3elzZDAK"
 };
