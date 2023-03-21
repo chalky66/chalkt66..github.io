@@ -12,7 +12,7 @@
     "assembly": {
       "BouncyCastle.Crypto.dll": "sha256-9CuGCYVNgNf4HydjQFBKpegrvk1z0FCA\/vH8yiREtNU=",
       "Darnton.Blazor.DeviceInterop.dll": "sha256-DZ\/jfCwm1TFrBcBrcJJkyABDTDVMz8ErYETwpSRSIas=",
-      "FarmShopSecure.dll": "sha256-TNkN89t+xN+czgg5xOU2LNCPA68lfzzFW02i1pjWSVk=",
+      "FarmShopSecure.dll": "sha256-AWpsZFsQD5pMzciKaA2SiHbAnNUVMPUZK5bjLY0nOec=",
       "FarmShopSecureSearchLogic.dll": "sha256-gfCaskcR+TF7sOhKSNCuG1\/VeefLiroDanGgRfzwHrs=",
       "Google.Protobuf.dll": "sha256-7bXkZdzlZHEFJh7InaOGimnZdRgZ\/TA67RuCnYd3XA4=",
       "K4os.Compression.LZ4.dll": "sha256-\/x7TAakpIVJ2TF5P1Wu+XGWD19Wf58DZ+RfaGQdLcBw=",
@@ -85,7 +85,7 @@
       "System.Linq.dll": "sha256-Q0IToqLgbnAajznT3ZOLJn3ZR1XFipEBMeRP7qp3ITI=",
       "System.Linq.Expressions.dll": "sha256-l2QSnmQ6jwzv8291ysKk\/AZ1nTk56N4ajEa7bfNdwgc=",
       "System.Memory.dll": "sha256-k007Ir287Kj5pbq4lLdGmeRRGO3O8qXW\/rZ3Df+b3Zc=",
-      "System.Net.Http.dll": "sha256-eg0TLDJBOECskTHmA4ZjI1kfvk6mz0Ip\/UP5Ef4kCyc=",
+      "System.Net.Http.dll": "sha256-6z3nOyzmfjhk\/Jr1SeM48XhsxZiS+8UAJk1NbltVcg4=",
       "System.Net.NameResolution.dll": "sha256-pzYyOHDr2\/bkId+OmXQO27Nw1vWvmd4OVw1CBr1ZUPM=",
       "System.Net.NetworkInformation.dll": "sha256-GaJj+dfvx0BoQ1RDt69Y47qlnrRUcqJ1ZzCkcc\/\/qaM=",
       "System.Net.Primitives.dll": "sha256-buDQsOIrf3TP7zeNkxTh+a4HF58tl787BTaoNiK7jKs=",

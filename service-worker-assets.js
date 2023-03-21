@@ -113,7 +113,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-ejJRUVYFbSN8hlvjk\/RcjTpaYrZ96gzsQ1jbbYYu6cc=",
+      "hash": "sha256-arW+lGZv4g\/ZXyTH6RZQQmbYWzGQLnyiDUAsSx6aFJI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -125,7 +125,7 @@
       "url": "_framework\/Darnton.Blazor.DeviceInterop.dll"
     },
     {
-      "hash": "sha256-TNkN89t+xN+czgg5xOU2LNCPA68lfzzFW02i1pjWSVk=",
+      "hash": "sha256-AWpsZFsQD5pMzciKaA2SiHbAnNUVMPUZK5bjLY0nOec=",
       "url": "_framework\/FarmShopSecure.dll"
     },
     {
@@ -417,7 +417,7 @@
       "url": "_framework\/System.Memory.dll"
     },
     {
-      "hash": "sha256-eg0TLDJBOECskTHmA4ZjI1kfvk6mz0Ip\/UP5Ef4kCyc=",
+      "hash": "sha256-6z3nOyzmfjhk\/Jr1SeM48XhsxZiS+8UAJk1NbltVcg4=",
       "url": "_framework\/System.Net.Http.dll"
     },
     {
@@ -921,5 +921,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "CSAxigI2"
+  "version": "9NqvtJbr"
 };
