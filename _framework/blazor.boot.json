@@ -12,7 +12,7 @@
     "assembly": {
       "BouncyCastle.Crypto.dll": "sha256-9CuGCYVNgNf4HydjQFBKpegrvk1z0FCA\/vH8yiREtNU=",
       "Darnton.Blazor.DeviceInterop.dll": "sha256-DZ\/jfCwm1TFrBcBrcJJkyABDTDVMz8ErYETwpSRSIas=",
-      "FarmShopSecure.dll": "sha256-AWpsZFsQD5pMzciKaA2SiHbAnNUVMPUZK5bjLY0nOec=",
+      "FarmShopSecure.dll": "sha256-z3VVdOCDXlSVk8ipZhi8eVaZ6612raqiD3XhZn7S\/OQ=",
       "FarmShopSecureSearchLogic.dll": "sha256-gfCaskcR+TF7sOhKSNCuG1\/VeefLiroDanGgRfzwHrs=",
       "Google.Protobuf.dll": "sha256-7bXkZdzlZHEFJh7InaOGimnZdRgZ\/TA67RuCnYd3XA4=",
       "K4os.Compression.LZ4.dll": "sha256-\/x7TAakpIVJ2TF5P1Wu+XGWD19Wf58DZ+RfaGQdLcBw=",
@@ -129,7 +129,7 @@
       "System.Text.Encoding.CodePages.dll": "sha256-6LvZMpR9as7q1vuHWosAtbrf0eNATRjSM+7IGcX9Sok=",
       "System.Text.Encoding.Extensions.dll": "sha256-Pqa\/c2g\/Kx0JT4tmghY2TR54HcxYM8kA57EephJ1Rc8=",
       "System.Text.Encodings.Web.dll": "sha256-UEjjfXMneHaPyug9JKLS2e67fa3O+GSBW4uCeGJTTLk=",
-      "System.Text.Json.dll": "sha256-d\/SE7s7rO2tbrPgr5w6scD9uM1gtvkJzla+btPsFT9s=",
+      "System.Text.Json.dll": "sha256-6m3T2XNA007QrvwylmKUuvHI8fmSzPLLT\/4AbUcGwVQ=",
       "System.Text.RegularExpressions.dll": "sha256-if4nsHI2H\/hagxLl0lNhxuUqQX\/\/pXpaHjJ4cxlmgOU=",
       "System.Threading.dll": "sha256-j24rUzF8HNyWnpzyH9BdaljQJSt9m4w9Fyw68Fl3d\/8=",
       "System.Threading.Tasks.dll": "sha256-5a59rp2N6xMebI+KM082u7rCx4GSeNzt+X8Ibz6BUPk=",
