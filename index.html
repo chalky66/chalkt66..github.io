@@ -96,7 +96,6 @@
     </style>
 </head>
 <body>
-    <h1>Triumph Renown 1953</h1>
     <div class="gallery">
         <a href="#lightbox1">
             <img src="RenownFront.JPG" alt="Renown Front">
@@ -121,7 +120,6 @@
         </iframe>
     </div>
 
-    <h1>SLK 200K - 2000</h1>
     <div class="gallery">
         <a href="#lightbox6">
             <img src="SLKFront.jpg" alt="SLK Front">
@@ -194,5 +192,28 @@
         <img src="SLKRight.jpg" alt="SLK Right">
         <a href="#lightbox6" class="next">&gt;</a>
     </div>
+
+    <script>
+        // Add keyboard navigation for lightboxes
+        document.addEventListener('keydown', function(event) {
+            const currentLightbox = document.querySelector('.lightbox:target');
+            if (!currentLightbox) return;
+
+            // Check which key is pressed
+            if (event.key === 'ArrowRight') {
+                const nextLink = currentLightbox.querySelector('.next');
+                if (nextLink) {
+                    window.location.href = nextLink.getAttribute('href');
+                }
+            } else if (event.key === 'ArrowLeft') {
+                const prevLink = currentLightbox.querySelector('.prev');
+                if (prevLink) {
+                    window.location.href = prevLink.getAttribute('href');
+                }
+            } else if (event.key === 'Escape') {
+                window.location.href = '#';
+            }
+        });
+    </script>
 </body>
 </html>
