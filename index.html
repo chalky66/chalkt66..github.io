@@ -32,6 +32,21 @@
         .gallery img:hover {
             transform: scale(1.05);
         }
+        .video-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            aspect-ratio: 16 / 9;
+            margin: 20px 0;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .video-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
         .lightbox {
             display: none;
             position: fixed;
@@ -98,6 +113,12 @@
         <a href="#lightbox5">
             <img src="RenownWashed.jpg" alt="Renown Washed">
         </a>
+    </div>
+
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/Hx4ZtLjNoyA" title="Triumph Renown Video"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        </iframe>
     </div>
 
     <h1>SLK 200K</h1>
