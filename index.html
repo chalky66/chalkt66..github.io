@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Renown Car Photo Gallery</title>
+    <title>Car Photo Gallery</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -63,6 +63,10 @@
             padding: 5px 10px;
             border-radius: 5px;
         }
+        h1 {
+            margin-bottom: 20px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -85,7 +89,23 @@
         </a>
     </div>
 
-    <!-- Lightbox for each image -->
+    <h1>SLK 200K</h1>
+    <div class="gallery">
+        <a href="#lightbox6">
+            <img src="SLKFront.jpg" alt="SLK Front">
+        </a>
+        <a href="#lightbox7">
+            <img src="SLKLeft.jpg" alt="SLK Left">
+        </a>
+        <a href="#lightbox8">
+            <img src="SLKRear.jpg" alt="SLK Rear">
+        </a>
+        <a href="#lightbox9">
+            <img src="SLKRight.jpg" alt="SLK Right">
+        </a>
+    </div>
+
+    <!-- Lightboxes for Renown images -->
     <div id="lightbox1" class="lightbox">
         <a href="#" class="close">&times;</a>
         <img src="RenownFront.JPG" alt="Renown Front">
@@ -105,6 +125,24 @@
     <div id="lightbox5" class="lightbox">
         <a href="#" class="close">&times;</a>
         <img src="RenownWashed.jpg" alt="Renown Washed">
+    </div>
+
+    <!-- Lightboxes for SLK 200K images -->
+    <div id="lightbox6" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <img src="SLKFront.jpg" alt="SLK Front">
+    </div>
+    <div id="lightbox7" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <img src="SLKLeft.jpg" alt="SLK Left">
+    </div>
+    <div id="lightbox8" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <img src="SLKRear.jpg" alt="SLK Rear">
+    </div>
+    <div id="lightbox9" class="lightbox">
+        <a href="#" class="close">&times;</a>
+        <img src="SLKRight.jpg" alt="SLK Right">
     </div>
 </body>
 </html>
