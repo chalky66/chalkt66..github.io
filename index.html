@@ -52,16 +52,27 @@
         .lightbox:target {
             display: flex;
         }
-        .close {
+        .close, .prev, .next {
             position: absolute;
-            top: 20px;
-            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
             font-size: 30px;
             color: white;
             text-decoration: none;
-            background: #000;
-            padding: 5px 10px;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 10px;
             border-radius: 5px;
+        }
+        .close {
+            top: 20px;
+            right: 20px;
+            transform: none;
+        }
+        .prev {
+            left: 10%;
+        }
+        .next {
+            right: 10%;
         }
         h1 {
             margin-bottom: 20px;
@@ -108,41 +119,59 @@
     <!-- Lightboxes for Renown images -->
     <div id="lightbox1" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox5" class="prev">&lt;</a>
         <img src="RenownFront.JPG" alt="Renown Front">
+        <a href="#lightbox2" class="next">&gt;</a>
     </div>
     <div id="lightbox2" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox1" class="prev">&lt;</a>
         <img src="RenownLeft.JPG" alt="Renown Left">
+        <a href="#lightbox3" class="next">&gt;</a>
     </div>
     <div id="lightbox3" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox2" class="prev">&lt;</a>
         <img src="RenownRear.JPG" alt="Renown Rear">
+        <a href="#lightbox4" class="next">&gt;</a>
     </div>
     <div id="lightbox4" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox3" class="prev">&lt;</a>
         <img src="RenownRight.JPG" alt="Renown Right">
+        <a href="#lightbox5" class="next">&gt;</a>
     </div>
     <div id="lightbox5" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox4" class="prev">&lt;</a>
         <img src="RenownWashed.jpg" alt="Renown Washed">
+        <a href="#lightbox1" class="next">&gt;</a>
     </div>
 
     <!-- Lightboxes for SLK 200K images -->
     <div id="lightbox6" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox9" class="prev">&lt;</a>
         <img src="SLKFront.jpg" alt="SLK Front">
+        <a href="#lightbox7" class="next">&gt;</a>
     </div>
     <div id="lightbox7" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox6" class="prev">&lt;</a>
         <img src="SLKLeft.jpg" alt="SLK Left">
+        <a href="#lightbox8" class="next">&gt;</a>
     </div>
     <div id="lightbox8" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox7" class="prev">&lt;</a>
         <img src="SLKRear.jpg" alt="SLK Rear">
+        <a href="#lightbox9" class="next">&gt;</a>
     </div>
     <div id="lightbox9" class="lightbox">
         <a href="#" class="close">&times;</a>
+        <a href="#lightbox8" class="prev">&lt;</a>
         <img src="SLKRight.jpg" alt="SLK Right">
+        <a href="#lightbox6" class="next">&gt;</a>
     </div>
 </body>
 </html>
